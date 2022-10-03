@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Hendro
+
+- 🔭 I’m mostly working as backend developer using NodeJS
+- 📫 How to reach me: spyndutz@gmail.com
 
 <!--
 **spyndutz/spyndutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
